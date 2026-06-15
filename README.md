@@ -29,17 +29,6 @@ This repository documents my hands-on experience with Velociraptor for Digital F
 - [x] Successful client enrollment
 - [x] Dashboard verification
 
-## Screenshots
-
-### Home Page
-
-![Home Page](screenshots/home_page.png)
-
-### Server Dashboard
-
-![Server Dashboard](screenshots/server_dashboard.png)
-
-## Repository Structure
 
 ```
 Velociraptor-DFIR-Lab
